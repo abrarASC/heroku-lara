@@ -89,7 +89,7 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a> --}}
                     <a href="javascriprt:void(0)">Web developer</a>
-                    <a href="javascriprt:void(0)">Gamer</a>
+                    {{-- <a href="javascriprt:void(0)">Gamer</a> --}}
                     <a href="javascriprt:void(0)">Geek</a>
                 </div>
             </div>
