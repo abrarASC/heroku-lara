@@ -23,7 +23,7 @@
     </head>
     <body>
 
-        <div id="page-container" class="sidebar-o {{-- sidebar-mini --}} sidebar-inverse side-scroll page-header-inverse {{-- main-content-narrow --}}">
+        <div id="page-container" class="sidebar-o sidebar-mini sidebar-inverse side-scroll page-header-inverse main-content-narrow">
             
             @include('layouts._partials.sidebar')
 
